@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.haoy1220.practicetest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.haoy1220.practicetest.MyBundle
 
 class MyApplicationService {
 
